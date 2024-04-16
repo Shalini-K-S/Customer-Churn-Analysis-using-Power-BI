@@ -1,5 +1,4 @@
 # Customer-Churn-Analysis-using-Power-BI
-Project Link:
 ## Table of Contents
 - [Project Overview](project-overview)
 - [Data Sources](data-sources)
