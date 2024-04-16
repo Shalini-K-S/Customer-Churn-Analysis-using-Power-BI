@@ -54,4 +54,6 @@ Based on the analysis, we recommend the following actions:
 - Promotions should be focused on customers with Month to Month plan.
 ## Dashboard
 ![Screenshot (22)](https://github.com/Shalini-K-S/Customer-Churn-Analysis-using-Power-BI/assets/163270221/7f15f076-6628-4eb7-866e-1b509f01c007)
+![Screenshot (23)](https://github.com/Shalini-K-S/Customer-Churn-Analysis-using-Power-BI/assets/163270221/0b5aa246-d341-4c87-bce4-02d9872f2b8f)
+![Screenshot (24)](https://github.com/Shalini-K-S/Customer-Churn-Analysis-using-Power-BI/assets/163270221/c67ae9dd-e430-4379-a173-0285f1ee1ff3)
 
