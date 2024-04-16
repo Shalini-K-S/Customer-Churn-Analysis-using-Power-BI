@@ -29,25 +29,28 @@ Customer_churn_data: The primary dataset used for this analysis is the "Customer
 - Data visualization using interactive Dashboard
 
 ## Problem Analyzed 
-- What is the total sales and profit?
-- Which is the maximum sold products?
+- What is the total churn rate of customers?
+- In which tenure the churn rate is high ?
 - What is the profit at each region?
-- Who are the top Customers?
-- What is the sales and profit for each category?
+- What is the total churn for each services?
+- In which plan the churn rate is high?
 
 ## Results/Findings
 The analysis results are summarized as follows:
 
-- The total sales and profit has increased over the year.
-- Canon imageCLASS 2200 Advanced Copier is the most sold and high profit product.
-- West is the highly profitable region.
-- Technology is the most sold category
+- The total churn rate is 26.54% and 1869 customers has churned.
+- The churn rate is high in first year period.
+- Chrun is higher for people who have opted for paperless billing.
+- Electric check is the payment method with high churn rate.
+- Phone Service has the highest churn rate of 21%.
+- Month to Month plan has 42% of churn which is high compared to other plans.
 
 ## Recommendations
 Based on the analysis, we recommend the following actions:
 
-- Invest in marketing and promotions to maximize revenue for Office Supplies.
-- Focus on expanding and promoting products in South region.
-- Can make bundle of most and least purchased products.
+- Invest in marketing and promotions to retain the customers with 1 year tenure.
+- Focus on expanding and promoting services among the senior Citizen customers.
+- Electronic check Payment mode should be checked for any errors as it has high churn rate.
+- Promotions should be focused on customers with Month to Month plan.
 ## Dashboard
-![Screenshot (20)](https://github.com/Shalini-K-S/SuperStore-Sales-Dashboard/assets/163270221/ad136a4d-3593-436c-b944-1e1e45e1f988)
+
