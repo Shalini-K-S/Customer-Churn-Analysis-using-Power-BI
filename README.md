@@ -53,4 +53,5 @@ Based on the analysis, we recommend the following actions:
 - Electronic check Payment mode should be checked for any errors as it has high churn rate.
 - Promotions should be focused on customers with Month to Month plan.
 ## Dashboard
+![Screenshot (22)](https://github.com/Shalini-K-S/Customer-Churn-Analysis-using-Power-BI/assets/163270221/7f15f076-6628-4eb7-866e-1b509f01c007)
 
